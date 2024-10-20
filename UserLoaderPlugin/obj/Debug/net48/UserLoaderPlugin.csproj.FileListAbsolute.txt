@@ -1,0 +1,16 @@
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\UserLoaderPlugin.dll
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\UserLoaderPlugin.pdb
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\NLog.dll
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\PhoneApp.exe
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\NLog.xml
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\PhoneApp.pdb
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\net48\PhoneApp.exe.config
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.csproj.AssemblyReference.cache
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.AssemblyInfoInputs.cache
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.AssemblyInfo.cs
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoad.CA592D0A.Up2Date
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.dll
+C:\Users\Работа\source\repos\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\net48\UserLoaderPlugin.pdb

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Работа\\source\\repos\\UserLoaderPlugin\\UserLoaderPlugin\\UserLoaderPlugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Работа\\source\\repos\\UserLoaderPlugin\\UserLoaderPlugin\\UserLoaderPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Работа\\source\\repos\\UserLoaderPlugin\\UserLoaderPlugin\\UserLoaderPlugin.csproj",
+        "projectName": "UserLoaderPlugin",
+        "projectPath": "C:\\Users\\Работа\\source\\repos\\UserLoaderPlugin\\UserLoaderPlugin\\UserLoaderPlugin.csproj",
+        "packagesPath": "C:\\Users\\Работа\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Работа\\source\\repos\\UserLoaderPlugin\\UserLoaderPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Работа\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

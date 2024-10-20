@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NLog">
+      <HintPath>..\..\..\..\Desktop\PhonePlugin\PhonePluginsApplication\PhoneApp\bin\Debug\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PhoneApp">
+      <HintPath>..\..\..\..\Desktop\PhonePlugin\PhonePluginsApplication\PhoneApp\bin\Debug\PhoneApp.exe</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+</Project>
